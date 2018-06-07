@@ -1,0 +1,38 @@
+body {
+  background: url("img/bg.png") repeat;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  margin: auto;
+  margin-top: 50px;
+  width: 75%;
+  padding: 10px;
+  background-color: white;
+  opacity: 0.6;
+  border-radius: 0.3rem;
+}
+
+.header {
+  background-color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+.centerbutton {
+  margin: 0;
+  background-color: transparent;
+  text-align: center;
+}
+
+.drink {
+  margin: auto;
+}
