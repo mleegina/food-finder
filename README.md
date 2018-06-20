@@ -3,9 +3,9 @@
 An Angular SPA, that can help decide what to eat. It suggests recipes and uses geolocation to recommend the top rated restaurants near you! 
 
 # Screenshots
-![Screenshot of Page](https://github.com/mleegina/geenah/blob/master/img/landing.png)
-![Screenshot of Page](https://github.com/mleegina/geenah/blob/master/img/recipe.png)
-![Screenshot of Page](https://github.com/mleegina/geenah/blob/master/img/restaurant.png)
+![Screenshot of Page](https://github.com/mleegina/food-finder/blob/master/img/landing.png)
+![Screenshot of Page](https://github.com/mleegina/food-finder/blob/master/img/recipe.png)
+![Screenshot of Page](https://github.com/mleegina/food-finder/blob/master/img/restaurant.png)
 
 # Reflection
 
