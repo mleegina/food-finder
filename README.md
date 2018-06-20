@@ -1,6 +1,6 @@
 # Food Finder
 
-An Angular SPA, that can help decide what to eat. It suggests recipes and uses geolocation to recommend the top rated restaurants near you! 
+An Angular project, that can help you decide what to eat. This SPA also gives a recommendation of the top three rated restaurants based off the geolocation of the device. Powered by Zomato, Food2Fork, and CocktailDB APIs. 
 
 # Screenshots
 ![Screenshot of Page](https://github.com/mleegina/food-finder/blob/master/img/landing.png)
